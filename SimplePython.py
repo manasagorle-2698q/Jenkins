@@ -1,1 +1,1 @@
-prit("Hello Mark Crazy Experience Right!!")
+print("Hello Mark Crazy Experience Right!!")
